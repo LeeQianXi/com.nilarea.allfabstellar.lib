@@ -1,20 +1,14 @@
-﻿## HOMEPAGE
+﻿# AllFabStellar.Lib
 
-- **English** - Coming soon.
-- **简体中文** - [https://gameframework.cn/](https://gameframework.cn/)
-  - **QQ 讨论群** 216332935
+## 项目溯源与免责声明
+本项目 **AllFabStellar.Lib** 基于 **UnityGameFramework**（MIT License）开发，原项目地址：[https://gameframework.cn/](https://gameframework.cn/)。  
+AllFabStellar.Lib 与原 UnityGameFramework 项目及 Unity Technologies 公司无任何官方合作或附属关系，修改后的功能实现、维护及潜在问题均由本项目团队独立负责。
 
----
+## AllFabStellar.Lib 简介
 
-![Game Framework](https://gameframework.cn/image/gameframework.png)
+AllFabStellar.Lib 是一个基于 Unity 引擎的游戏框架，主要对游戏开发过程中常用模块进行了封装，很大程度地规范开发过程、加快开发速度并保证产品质量。
 
----
-
-## Game Framework 简介
-
-Game Framework 是一个基于 Unity 引擎的游戏框架，主要对游戏开发过程中常用模块进行了封装，很大程度地规范开发过程、加快开发速度并保证产品质量。
-
-在最新的 Game Framework 版本中，包含以下 19 个内置模块，后续我们还将开发更多的扩展模块供开发者使用。
+在最新的 AllFabStellar.Lib 版本中，包含以下 19 个内置模块，后续我们还将开发更多的扩展模块供本项目使用。
 
 1. **全局配置 (Config)** - 存储一些全局的只读的游戏配置，如玩家初始速度、游戏初始音量等。
 
@@ -58,9 +52,9 @@ Game Framework 是一个基于 Unity 引擎的游戏框架，主要对游戏开�
 
 ## INTRODUCTION
 
-Game Framework is literally a game framework, based on Unity game engine. It encapsulates commonly used game modules during development, and, to a large degree, standardises the process, enhances the development speed and ensures the product quality.
+AllFabStellar.Lib is literally a game framework, based on Unity game engine. It encapsulates commonly used game modules during development, and, to a large degree, standardises the process, enhances the development speed and ensures the product quality.
 
-Game Framework provides the following 19 builtin modules, and more will be developed later for game developers to use.
+AllFabStellar.Lib provides the following 19 builtin modules, and more will be developed later for this project to use.
 
 1. **Config** - saves some global read-only game configurations, such as the player's initial speed, the initial volume of the game, etc.
 

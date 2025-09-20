@@ -1,11 +1,12 @@
 {
-  "name": "com.jiangyin.gameframework",
-  "displayName": "Game Framework",
+  "name": "com.nilarea.allfabstellar_lib",
+  "displayName": "AllFabStellar Library",
   "category": "Game Framework",
-  "description": "This is literally a game framework, based on Unity game engine. It encapsulates commonly used game modules during development, and, to a large degree, standardises the process, enhances the development speed and ensures the product quality.",
+  "description": "This is a library for AllFabStellar project, which is a game framework based on Unity game engine. It encapsulates commonly used game modules during development, and, to a large degree, standardises the process, enhances the development speed and ensures the product quality.",
   "version": "2021.05.31",
   "unity": "2017.1",
   "keywords": [
+    "AllFabStellar",
     "Game Framework"
   ],
   "author": {
@@ -13,6 +14,14 @@
     "email": "ellan@gameframework.cn",
     "url": "https://gameframework.cn/"
   },
+  "contributors": [
+    {
+      "name": "QianXi_Lee nilarea",
+      "email": "qianxilee232@163.com",
+      "url": "https://nilarea.cn/"
+    }
+  ],
+  "license": "MIT",
   "dependencies": {
     "com.unity.modules.androidjni": "1.0.0",
     "com.unity.modules.animation": "1.0.0",
@@ -24,7 +33,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@github.com:EllanJiang/UnityGameFramework.git",
-    "revision": "9e04764c9098106a83b5110923d4acf1b1a13344"
+    "url": "git@github.com:LeeQianXi/AllFabStellar.Lib.git",
+    "revision": ""
   }
 }
