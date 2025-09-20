@@ -1,5 +1,5 @@
 {
-  "name": "com.nilarea.allfabstellar_lib",
+  "name": "com.nilarea.allfabstellar.lib",
   "displayName": "AllFabStellar Library",
   "category": "Game Framework",
   "description": "This is a library for AllFabStellar project, which is a game framework based on Unity game engine. It encapsulates commonly used game modules during development, and, to a large degree, standardises the process, enhances the development speed and ensures the product quality.",
@@ -33,7 +33,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@github.com:LeeQianXi/AllFabStellar.Lib.git",
+    "url": "git@github.com:LeeQianXi/com.nilarea.allfabstellar.lib.git",
     "revision": ""
   }
 }
